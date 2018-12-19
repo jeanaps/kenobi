@@ -4,3 +4,8 @@ do
 
 	ping -c2 192.168.99.SIP 2>&1 /dev/null && echo "OK 192.168.99.SIP"
 	|| echo "FAIL - 192.168.99.SIP"
+	
+	
+	
+	#teste comentario
+
