@@ -6,6 +6,8 @@ do
 	|| echo "FAIL - 192.168.99.SIP"
 	
 	
-	
+	w
+	ls
+	cd ..
 	#teste comentario
 
